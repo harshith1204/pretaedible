@@ -1,4 +1,4 @@
 # pretaedible
 E-commerce site for a startup of edible oil
 <br>
-Author - Harshith Sai
+Author - Harshith (IIT ISM Student)
